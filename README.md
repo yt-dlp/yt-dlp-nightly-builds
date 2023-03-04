@@ -1,6 +1,8 @@
-# yt-dlp nightly archive
+# yt-dlp nightly builds
 
-This repository archives all nightly builds for [yt-dlp](https://www.github.com/yt-dlp/yt-dlp).
+This repository hosts releases for the `nightly` channel for [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
-These archived nightly releases are only intended to be used for debugging and as fallbacks in case of regressions.
-Regular users are recommended to use the latest [stable](https://www.github.com/yt-dlp/yt-dlp/releases/latest) or most recent [nightly](https://www.github.com/yt-dlp/yt-dlp/releases/tag/nightly) release instead.
+The most recent version is available [here](https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/latest).
+Alternatively you can use `yt-dlp --update-to nightly` if you have at least yt-dlp 2023.03.03 installed.
+
+For more info see [this](https://github.com/yt-dlp/yt-dlp#update-channels).
